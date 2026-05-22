@@ -1,30 +1,36 @@
-# Tenki 🚀  
+# Wlecome to Tenki
+![Tenki Header](https://github.com/TenkiCloud/.github/blob/main/profile/github-banner.png)
 
-Tenki offers a cost-effective alternative to GitHub-hosted runners, delivering higher performance at a lower price.
+Tenki is a CI platform that **helps engineering teams ship faster, cheaper, and with fewer bugs**. 
 
----
+- **[Tenki Runners](https://tenki.cloud/products/runners)** replace slow, expensive GitHub-hosted runners with a drop-in alternative that delivers 30% faster job execution and up to 50% cost savings, that adapts to your workloads in real time and a 2-click migration that requires zero workflow changes. 
 
+- **[Tenki Code Reviewer](https://tenki.cloud/products/code-reviewer)** catches bugs before they hit production with deep, context-aware AI reviews that flag only real issues introduced by the PR—no 2-3 week training period, no false-positive noise, and predictable flat-rate pricing. 
 
-## Why Tenki is Awesome 🤩  
+- **[Tenki Sandboxes](https://tenki.cloud/products/sandbox)** provide secure, self-hosted environments for isolated code execution, letting teams reproduce workflows, debug builds, and experiment safely without touching production
 
-- 📁 **Save up to 90% on costs**  
-- 🚀 **Boost performance by 30%**  
-- 🔄 **No maintenance required** – we handle the ressource allocation of the runners for you
-- 🔒 **Enhanced security** – powered by ephemeral VMs  
+Looking for a tailored onboarding experience or have technical questions? [Schedule a call with us](https://calendly.com/hayssem/30min)
 
----
+## Get Started with Tenki in seconds
 
-## Get Started in Minutes ⏱  
+Create your account today. Setup takes under two minutes, and every account starts with free monthly credits.
 
-1. ☑️ **Sign up** with your email or GitHub account  
-2. 🖥 **Install the Tenki GitHub App** and grant access to your repositories 
-3. 📦 **Migrate workflows** effortlessly with our automated Migration Wizard  
+Read more on our [Documentation](https://tenki.cloud/docs), or explore our [Blog](https://tenki.cloud/blog).
 
----
+## Connect with us
 
-## Connect with Us 💬  
+<div align='center'>
+<a href="https://x.com/TenkiCloud" target="_blank">
+<img src="https://img.shields.io/badge/x (twitter)-%2300acee.svg?color=000000&style=for-the-badge&logo=x&logoColor=white" alt=twitter style="margin-bottom: 5px;"/></a> 
+<a href="https://discord.gg/gxxYGazV" target="_blank">
+<img src="https://img.shields.io/badge/discord -%2300acee.svg?color=757EF8&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/></a> 
+<a href="https://www.linkedin.com/company/tenki-cloud" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/></a>
+<a href="mailto:hello@tenki.cloud" target="_blank">
+<img src="https://img.shields.io/badge/email-%2301349E.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;"/>
+</a>
+</div align='center'>
 
-- 📋 [Join our Discord](https://discord.gg/vfPM7yFB)  
-- 🐣 [Follow us on X](https://x.com/TenkiCloud)  
-- 🐘 [Connect on LinkedIn](https://www.linkedin.com/company/tenki-cloud)  
-- 📨 [Email us](mailto:hello@tenki.cloud)  
+## We are hiring!
+
+Check out the [open positions](https://tenki.cloud/company/careers) at Tenki.
